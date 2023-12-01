@@ -1,0 +1,58 @@
+/* *{
+    background-color: #212121;
+    color: #ffff;
+    font-size: 60px;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+h1{
+    text-align: center;
+    background: rgb(228,228,228);
+background: linear-gradient(90deg, rgba(228,228,228,1) 15%, rgba(244,242,126,1) 42%, rgba(109,185,239,1) 85%, rgba(238,245,255,1) 100%);
+width: 50%;
+margin: 10px;
+padding: 30px;
+position: relative;
+left: 20%;
+font-family: Bangers;
+font-weight: 200;
+border-radius: 40px;
+
+}
+.btn{
+    font-size: 40px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    position: relative;
+    top: 40px;
+    left: 24%;
+    font-family: Bangers;
+    font-weight:200 ;
+}
+#grey{
+    background-color: grey;
+    
+    
+
+}
+#white{
+
+    background-color: #fff;
+
+}
+#Cyan-Blue{
+    background-color: #3085C3;
+
+}
+#yellow{
+    background-color: #F4F27E;
+    
+
+}
+#FFC7EA{
+    background-color:#FFC7EA;
+    
+    
+
+}
